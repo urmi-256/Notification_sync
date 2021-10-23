@@ -1,0 +1,21 @@
+.container{
+     padding:1rem;
+     background:rgb(34, 34, 34);
+     width:60%;
+     height:90vh;
+     display: flex;
+     flex-direction:row;
+     align-items: center;
+     margin:auto;
+  }
+  .container_head{
+   padding:3rem;
+   font-size:2rem;
+   color:white;
+   font-weight:600;
+  }
+  .qrcode_container{
+    padding:3rem;
+    background-color:white;
+    margin:auto;
+  }
